@@ -1,0 +1,49 @@
+JSON Resume
+
+{
+  "Basics": {
+    "Name": "Nandini",
+    "Picture": "",
+    "email": "gajjarnandini2000@gmail.com",
+    "Phone": "8758320042",
+    "Degree": "B.E Electrical engg.",
+    "Location": {
+      "address": "37,GH Society",
+      "city": "Modasa",
+      "state": "Gujarat"
+      "PinCode": "383315"
+    },
+
+  "Education": [
+    {
+      "Institution": "H.J.D Institude",
+      "StudyType": "B.E Electrical Engg.",
+      "GPA": "8.25",
+      "Courses":" [ Diploma Electrical engg.
+      B.E. Electrical engg.
+      ]"
+    }
+  ],
+  "Awards": [
+    {
+      "Title": "Scholarship from K.C.Mahindra & Mahindra",
+    }
+  ],
+
+  "Skills": [
+    {
+      "Name": "Good at vs code ",
+      
+    }
+  ],
+  "Languages": [
+    {
+      "Language": "Gujarati,English and Hindi",
+    }
+  ],
+  "Interests": [
+      "Name": "Sports(e.g.:Cricket) and Painting",
+      ]
+    }
+  
+}
